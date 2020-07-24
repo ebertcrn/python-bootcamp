@@ -26,7 +26,7 @@ class Pessoa:
         return self.altura + crescimento
 
 # teste da classe
-p1 = Pessoa('Ebert', 22, 100, 187)
+p1 = Pessoa('João', 22, 80, 187)
 p1.envelhece()
 print(p1.engorda(10))
 print(p1.emagrece(10))
