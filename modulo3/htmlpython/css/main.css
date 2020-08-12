@@ -1,0 +1,19 @@
+th {
+    background-color: blue;
+}
+
+td {
+    background-color: green;
+}
+
+#titulo {
+    background-color: ivory;
+    text-align: center;
+    font-size: 50px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.erro {
+    color: red;
+}

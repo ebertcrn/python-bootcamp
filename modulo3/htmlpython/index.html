@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu site</title>
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <meta name="theme-color" content="#fafafa">
+</head>
+<body>
+    <p>Hello world!</p>
+
+    <!-- DIV tem display block: cada div é mostrada em uma linha -->
+    <div>
+        Essa é a minha div 1
+    </div>
+    <div>
+        Essa é a minha div 2
+    </div>
+
+    <!-- SPAN não tem display block: são mostrados na mesma linha -->
+    <span>
+        Esse é meu span 1
+    </span>
+    <span>
+        Esse é meu span 2
+    </span>
+
+    <div>
+        <!-- Tabela -->
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Nome</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr> <!-- tr = nova linha -->
+                    <td>12</td>
+                    <td>João</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>Ebert</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="titulo">Formulário de cadastro de nomes</div>
+    <div>
+        <form onsubmit="/genero" id="formulario" method="post">
+            <label for="nome">Nome:</label>
+            <input type="text" name="Nome" id="nome" value="" placeholder="Digite o seu nome">
+            <div class="erro">Mensagem de erro</div>
+            <input type="submit" id="submit-button" value="Enviar">
+        </form>
+    </div>
+</body>
+</html>

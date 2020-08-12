@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: stretch;
+    width: 100vw;
+    height: 20vh;
+    background-color: aquamarine;
+    overflow: auto;
+}
+
+.div1 {
+    background-color: yellow;
+}
+
+.div2 {
+    background-color: red;
+    align-self: flex-end;
+}
+
+.div3 {
+    background-color: blue;
+}
