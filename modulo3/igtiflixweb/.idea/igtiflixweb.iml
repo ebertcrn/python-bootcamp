@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/principal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/igtiflixweb" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/genero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/serie" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (igtiflixweb)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
