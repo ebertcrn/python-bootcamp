@@ -1,0 +1,68 @@
+{
+    "FILMES": [
+        {
+            "nome": "Velozes e furiosos",
+            "ano": "2001",
+            "diretor": "Rob Cohen",
+            "genero": "Acao",
+            "descricao": "Brian O'Conner é um policial que se infiltra no submundo dos rachas de rua para investigar uma série de furtos. Enquanto tenta ganhar o respeito e a confiança do líder Dom Toretto, ele corre o risco de ser desmascarado.",
+            "poster":"https://i.imgur.com/srkCSeD.jpg"
+        },
+        {
+            "nome": "Star Wars: Os Ultimos Jedi",
+            "ano": "2017",
+            "diretor": "Rian Johnson",
+            "genero": "Acao",
+            "descricao": "A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia",
+            "poster":"https://lojasaraiva.vteximg.com.br/arquivos/ids/12112149/1005093474.jpg?v=637142259701400000"
+        },
+        {
+            "nome": "Titanic",
+            "ano": "1997",
+            "diretor": "James Cameron",
+            "genero": "Romance",
+            "descricao": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.",
+            "poster":"https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg"
+        },
+        {
+            "nome": "Crepusculo",
+            "ano": "2008",
+            "diretor": "Catherine Hardwicke",
+            "genero": "Romance",
+            "descricao": "A estudante Bella Swan conhece Edward Cullen, um belo mas misterioso adolescente. Edward é um vampiro, cuja família não bebe sangue, e Bella, longe de ficar assustada, se envolve em um romance perigoso com sua alma gêmea imortal.",
+            "poster":"https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/153220140525-uau-posters-filmes-a-saga-crepusculo--the-twilight-saga-robert-pattinson-kirsten-stewert-1-2.jpg"
+        },
+        {
+            "nome": "Forrest Gump - O Contador de Histórias",
+            "ano": "1994",
+            "diretor": "Robert Zemeckis",
+            "genero": "Romance",
+            "descricao": "Mesmo com o raciocínio lento, Forrest Gump nunca se sentiu desfavorecido. Graças ao apoio da mãe, ele teve uma vida normal. Seja no campo de futebol como um astro do esporte, lutando no Vietnã ou como capitão de um barco de camarão, Forrest inspira a todos com seu otimismo infantil. Mas a pessoa com quem Forrest mais se preocupa pode ser a mais difícil de salvar: seu amor de infância, a doce, mas perturbada Jenny.",
+            "poster":"https://assets.xtechcommerce.com/uploads/images/full/de97529be320f9c18bc27b88ac3c8f19.jpg"
+        },
+        {
+            "nome": "Shrek",
+            "ano": "2001",
+            "diretor": "Andrew Adamson",
+            "genero": "Animação",
+            "descricao": "Era uma vez um pântano distante, onde vivia um ogro chamado Shrek. De repente, seu sossego é interrompido pela invasão de personagens de contos de fadas que foram banidos de seu reino pelo maldoso Lorde Farquaad. Determinado a salvar o lar das pobres criaturas, e também o dele, Shrek faz um acordo com Farquaad e parte para resgatar a princesa Fiona. Resgatar a princesa pode não ser nada comparado com seu segredo profundo e sombrio.",
+            "poster":"https://images-na.ssl-images-amazon.com/images/I/41mSRxM16mL._AC_.jpg"
+        },
+        {
+            "nome": "Se Beber, Não Case!",
+            "ano": "2009",
+            "diretor": "Todd Phillips",
+            "genero": "Comédia",
+            "descricao": "Dois dias antes de seu casamento, Doug e três amigos vão de carro até Las Vegas para uma louca e memorável despedida de solteiro. Quando os três padrinhos acordam na manhã seguinte, eles não conseguem se lembrar de nada e notam que Doug desapareceu. Com pouco tempo de sobra, os amigos tentam refazer a noite anterior e encontrar Doug para que possam levá-lo de volta a Los Angeles a tempo de chegar ao altar.",
+            "poster":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn3W4RIKHWYWqxfEj5bSI7YgV5uoswnKYguGU4AREINLICtiCy"
+        },
+        {
+            "nome": "A Caçada ao Outubro Vermelho",
+            "ano": "1990",
+            "diretor": "John McTiernan",
+            "genero": "Suspense",
+            "descricao": "O ano é 1984. O alto comando soviético acredita na possibilidade de deserção quando o capitão Markus Ramius, o comandante do Outubro Vermelho, o mais moderno submarino russo, desobedece ordens superiores e navega em direção à América. Outros submarinos soviéticos recebem ordem de afundar o Outubro Vermelho e os americanos decidem fazer o mesmo, temendo que seu território esteja ameaçado. Até que Jack Ryan, um agente da CIA que admira Markus Ramius, tenta impedir este ataque ao submarino.",
+            "poster":"https://www.vortexcultural.com.br/images/2015/04/Ca%C3%A7ada-ao-Outubro-Vermelho-Poster-dvd.jpg"
+        }
+    ]
+}
